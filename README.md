@@ -10,20 +10,6 @@ This app is built with Aleph but its API uses Node.js
 
 The content is retrieved from the API when you load the page
 
-## Reproduce
-
-- Create a directory and open it
-- Run `$ aleph init app`
-- Create `app/dist` folder
-- Remove `dist/` from `app/.gitignore`
-- Create `app/dist/.gitignore` with
-```
-*
-!.gitignore
-```
-- Create an `api` folder
-- Run `$ vercel dev`
-
 ## Development
 
 It runs well locally, you just have to run an Aleph process for the website and a Vercel process for the API
