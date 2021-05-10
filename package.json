@@ -1,0 +1,14 @@
+{
+  "name": "aleph-vercel",
+  "version": "1.0.0",
+  "description": "Build an Aleph website that uses Node.js Vercel functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/node": "^1.10.0"
+  }
+}
