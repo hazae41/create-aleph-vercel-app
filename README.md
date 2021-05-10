@@ -10,7 +10,7 @@ This app is built with Aleph but its API uses Node.js
 
 The content is retrieved from the API when you load the page
 
-## How to
+## Reproduce
 
 - Create a directory and open it
 - Run `$ aleph init app`
