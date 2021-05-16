@@ -1,5 +1,3 @@
-import { useDeno } from "framework/react";
-
 /**
  * Check whether the app is running in dev move
  * @returns if the app runs in dev mode
